@@ -16,7 +16,7 @@ class Package extends Command
 
     protected $description = 'Package PHAR with PHP Micro';
 
-    protected const STORAGE_URL = 'https://haulable.configured.co/';
+    protected const STORAGE_URL = 'https://haulable.giovanne.dev/';
 
     protected ProgressBar $progress;
 
