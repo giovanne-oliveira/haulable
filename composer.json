@@ -1,17 +1,21 @@
 {
-    "name": "configured/haulable",
+    "name": "giovanne-oliveira/haulable",
     "description": "Create standalone PHP CLI applications with PHP Micro CLI",
     "keywords": ["framework", "laravel", "laravel zero", "console", "cli"],
     "type": "project",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/configuredco/haulable/issues",
-        "source": "https://github.com/configuredco/haulable"
+        "issues": "https://github.com/giovanne-oliveira/haulable/issues",
+        "source": "https://github.com/giovanne-oliveira/haulable"
     },
     "authors": [
         {
             "name": "Joe Campo",
             "email": "joe@configured.co"
+        },
+        {
+            "name": "Giovanne Oliveira",
+            "email": "giovanne@giovanne.dev"
         }
     ],
     "require": {
